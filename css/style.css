@@ -11,7 +11,7 @@ form input { padding:10px; border-radius:3px; border:none; width:70%; color:#fff
 
 .wrapper { width:60%; margin:50px auto; }
 .item { display:block; padding:10px; cursor:pointer; }
-.completed { background-color:#6ba36b; color:#fff; }
+.completed { background-color:#6ba36b; color:#fff; text-decoration:line-through; }
 
 .statusSearch { float:right; margin-top:2px; }
 .statusSearch a { float:left; color:#363D45; padding:5px; font-size:13px; text-transform:uppercase; text-decoration:none; border-radius:3px; margin:0 2px; font-weight:bold; }

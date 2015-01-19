@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+* { margin:0; padding:0; }
+body { background-color:#c9c9c9; color:#fff; font-family: 'Open Sans', Tahoma, Verdana, serif; }
+
+form { padding:10px 0; margin:10px 0; border-radius:3px; }
+form input { padding:10px; border-radius:3px; border:none; width:70%; color:#fff; background-color:#363D45; }
+
+#list { background-color:#363D45; border-radius:3px; }
+#footer { font-weight:bold; margin-top:10px; padding:10px 0; font-size:13px; color:#363D45; }
+
+.wrapper { width:60%; margin:50px auto; }
+.item { display:block; padding:10px; cursor:pointer; }
+.completed { background-color:#6ba36b; color:#fff; }
+
+.statusSearch { float:right; margin-top:2px; }
+.statusSearch a { float:left; color:#363D45; padding:5px; font-size:13px; text-transform:uppercase; text-decoration:none; border-radius:3px; margin:0 2px; font-weight:bold; }
+.statusSearch a.active { background-color:#6ba36b; color:#fff; }
+

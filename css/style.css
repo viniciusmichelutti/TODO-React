@@ -6,6 +6,8 @@ body { background-color:#c9c9c9; color:#fff; font-family: 'Open Sans', Tahoma, V
 form { padding:10px 0; margin:10px 0; border-radius:3px; }
 form input { padding:10px; border-radius:3px; border:none; width:70%; color:#fff; background-color:#363D45; }
 
+p { text-align:center; font-size:11px; font-style:italic; color:#363D45; }
+
 #list { background-color:#363D45; border-radius:3px; }
 #footer { font-weight:bold; margin-top:10px; padding:10px 0; font-size:13px; color:#363D45; }
 
